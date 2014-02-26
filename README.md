@@ -18,5 +18,5 @@ How to Get xBeeMashup working:
 
 7) Connect to localhost port 9999 to start "Listening" The Traffic from the WSN.
 
-If you have any doubt please contact jesus.carrillo < at> teclid.org or juan.vaca <at> teclid.org
+If you have any doubt please contact jesus.carrillo < at> teclid.org or juan.vaca < at> teclid.org
 
